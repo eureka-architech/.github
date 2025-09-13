@@ -98,64 +98,6 @@ graph LR
 
 </div>
 
-## 👥 Equipo de Liderazgo
-
-<table>
-<tr>
-<td align="center" width="50%">
-  <img src="https://github.com/osvalois.png" width="80" style="border-radius: 50%"><br>
-  <strong>Oscar Valois Martínez</strong><br>
-  <sub>Director de Tecnología</sub><br>
-  <sub>12+ años experiencia</sub><br>
-  <sub>Solutions Architect senior</sub>
-</td>
-<td align="center" width="50%">
-  <strong>Jorge Alberto Virgen Montesinos</strong><br>
-  <sub>Director de Arquitectura Empresarial</sub><br>
-  <sub>21+ años experiencia</sub><br>
-  <sub>Ex-Subdirector Arquitectura servicios financieros</sub>
-</td>
-</tr>
-</table>
-
-## 🎯 Casos de Éxito
-
-### 🏦 Hergon Systems - Servicios Financieros
-- **Cliente**: [Hergon Systems Solution](https://sishergon.com.mx/)
-- **ROI**: 2.8x en 12 meses
-- **Mejoras**: 40% reducción tiempo procesamiento
-- **Satisfacción**: 50% mejora en experiencia cliente
-- **Resultado**: 100% equipo capacitado en nuevas tecnologías
-
-### 📊 Transformación Digital Integral
-- **Arquitectura**: Modernización de sistemas legacy
-- **Liderazgo**: 6 meses de mentoría ejecutiva
-- **Equipo**: 3 recursos técnicos especializados
-- **Certificación**: 100% cumplimiento normativo CONSAR
-
-## 🌍 Presencia y Mercado
-
-<div align="center">
-
-**🇲🇽 México** • **PyMEs 50-500 empleados** • **Sectores múltiples**
-
-| Sector | Proyectos | ROI Promedio |
-|--------|-----------|--------------|
-| 🏦 Servicios Financieros | 1 | 2.8x |
-| 🏗️ Arquitectura Empresarial | 3+ | 3.2x |
-| 💼 Transformación Digital | 5+ | 2.5x |
-| 🤖 Modernización Legacy | 2+ | 3.1x |
-
-</div>
-
-## 📈 Crecimiento y Proyecciones
-
-```
-2024 ████████████████████████████████████████ Fundación & Validación
-2025 ████████████████████████████████████████ $18M MXN ARR • 15 clientes
-2026 ████████████████████████████████████████ $55M MXN ARR • 150 clientes
-2027 ████████████████████████████████████████ $120M MXN ARR • 500+ clientes
-```
 
 ## 🤝 Colabora con Nosotros
 
