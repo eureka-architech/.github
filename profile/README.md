@@ -120,17 +120,18 @@ graph LR
 
 ## 🎯 Casos de Éxito
 
-### 🏭 Manufactura - Nearshoring
-- **ROI**: 6.7x en 12 meses
-- **Inversión**: $180K MXN
-- **Impacto**: $17M MXN business impact
-- **Resultado**: 100% retención de contratos
+### 🏦 Hergon Systems - Servicios Financieros
+- **Cliente**: [Hergon Systems Solution](https://sishergon.com.mx/)
+- **ROI**: 2.8x en 12 meses
+- **Mejoras**: 40% reducción tiempo procesamiento
+- **Satisfacción**: 50% mejora en experiencia cliente
+- **Resultado**: 100% equipo capacitado en nuevas tecnologías
 
-### 🛒 Retail - Transformación Omnicanal
-- **ROI**: 4.2x en 18 meses
-- **E-commerce**: 8% → 28% de ventas
-- **Impacto**: $10.5M MXN incremental
-- **Eficiencia**: 40% mejora en CAC
+### 📊 Transformación Digital Integral
+- **Arquitectura**: Modernización de sistemas legacy
+- **Liderazgo**: 6 meses de mentoría ejecutiva
+- **Equipo**: 3 recursos técnicos especializados
+- **Certificación**: 100% cumplimiento normativo CONSAR
 
 ## 🌍 Presencia y Mercado
 
@@ -138,13 +139,12 @@ graph LR
 
 **🇲🇽 México** • **PyMEs 50-500 empleados** • **Sectores múltiples**
 
-| Sector | Clientes | ROI Promedio |
-|--------|----------|--------------|
-| 🏭 Manufactura | 45 | 6.2x |
-| 🛒 Retail | 38 | 4.8x |
-| 🚚 Logística | 14 | 7.3x |
-| 🏗️ Construcción | 22 | 5.1x |
-| 💼 Servicios | 29 | 3.9x |
+| Sector | Proyectos | ROI Promedio |
+|--------|-----------|--------------|
+| 🏦 Servicios Financieros | 1 | 2.8x |
+| 🏗️ Arquitectura Empresarial | 3+ | 3.2x |
+| 💼 Transformación Digital | 5+ | 2.5x |
+| 🤖 Modernización Legacy | 2+ | 3.1x |
 
 </div>
 
