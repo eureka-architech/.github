@@ -102,31 +102,18 @@ graph LR
 
 <table>
 <tr>
-<td align="center" width="20%">
+<td align="center" width="50%">
   <img src="https://github.com/osvalois.png" width="80" style="border-radius: 50%"><br>
-  <strong>Oscar Valois</strong><br>
+  <strong>Oscar Valois Martínez</strong><br>
   <sub>Director de Tecnología</sub><br>
-  <sub>12+ años experiencia</sub>
+  <sub>12+ años experiencia</sub><br>
+  <sub>Solutions Architect senior</sub>
 </td>
-<td align="center" width="20%">
-  <strong>Jorge A. Virgen</strong><br>
-  <sub>Director de Arquitectura</sub><br>
-  <sub>21+ años experiencia</sub>
-</td>
-<td align="center" width="20%">
-  <strong>Joaquín García</strong><br>
-  <sub>Director de Innovación</sub><br>
-  <sub>15+ años experiencia</sub>
-</td>
-<td align="center" width="20%">
-  <strong>Arnold Muñoz</strong><br>
-  <sub>Director de Talento</sub><br>
-  <sub>100+ graduados formados</sub>
-</td>
-<td align="center" width="20%">
-  <strong>Omar Tzompantzi</strong><br>
-  <sub>Director de Servicios</sub><br>
-  <sub>8+ años experiencia</sub>
+<td align="center" width="50%">
+  <strong>Jorge Alberto Virgen Montesinos</strong><br>
+  <sub>Director de Arquitectura Empresarial</sub><br>
+  <sub>21+ años experiencia</sub><br>
+  <sub>Ex-Subdirector Arquitectura servicios financieros</sub>
 </td>
 </tr>
 </table>
